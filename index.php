@@ -12,7 +12,7 @@
 <body>
     <script src="script.js"></script>
     <div class="row-1">
-        <button></button>
+        <button id="button" onclick="player()"></button>
         <button></button>
         <button></button>
     </div>
